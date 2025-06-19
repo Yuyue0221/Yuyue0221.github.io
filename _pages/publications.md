@@ -11,8 +11,6 @@ You can also find my articles on <a href="https://scholar.google.com.hk/citation
 {: .notice--info}
 
 
-<br>
-
 Journal Papers
 ======
 (\* denotes corresponding authors)
