@@ -5,12 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my Google Scholar profile. {: .notice--info}
-
 {% include base_path %}
 
-<br>
+You can also find my articles on <a href="https://scholar.google.com.hk/citations?user=UqroHmgAAAAJ&hl=zh-CN">my Google Scholar profile</a>.
+{: .notice--info}
 
+
+<br>
 
 Journal Papers
 ======
