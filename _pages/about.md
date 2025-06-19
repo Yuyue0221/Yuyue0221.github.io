@@ -9,7 +9,7 @@ redirect_from:
 
 I am an assistant professor in the [Department of Food Science and Nutrition](https://www.polyu.edu.hk/fsn/) at The Hong Kong Polytechnic University. 
 Previously, I worked as a postdoctoral researcher at the Max Planck Institutes from .. to .. . 
-I received the Ph.D. degree in Electrical and Computer Engineering from the University of Texas at Austin in 201.
+I received the Ph.D. degree from University of Copenhagen in 201.
 My research focuses on leveraging starch to enhance food nutritional value, prevent obesity and diabetes, and develop advanced starch-based materials. And my projects encompass areas such as starch digestion, nanomaterial synthesis, and photonic materials.
 
 I am always looking for motivated undergraduate and graduate students with background in , or related areas, working on research fields of 
