@@ -17,9 +17,6 @@ main:
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-
   - title: "Teaching"
     url: /teaching/    
     
@@ -28,9 +25,9 @@ main:
 
   - title: "Students"
     url: /student/
-    
-  # - title: "CV"
-  #   url: /cv-json/
+
+  - title: "FSN"
+    url: https://www.polyu.edu.hk/fsn/
     
   # - title: "Guide"
   #   url: /markdown/
