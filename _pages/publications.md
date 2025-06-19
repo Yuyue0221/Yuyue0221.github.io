@@ -18,127 +18,128 @@ Journal Papers
 ======
 (\* denotes corresponding authors)
 
-### 32. Effects of natural starch-phosphate monoester content on the multi-scale structures of potato starches  
-    *  Ding, L., Liang, W., Qu, J., Persson, S., Liu, X., Herburger, K., Kirkensgaard, J., Khakimov, B., Rasmussen, K., Blennow, A., & **Zhong, Y\***  
-    *  Carbohydrate Polymers, 310, 120740, 2023.
+### 32. Effects of natural starch-phosphate monoester content on the multi-scale structures of potato starches
+
+   - Ding, L., Liang, W., Qu, J., Persson, S., Liu, X., Herburger, K., Kirkensgaard, J., Khakimov, B., Rasmussen, K., Blennow, A., & **Zhong, Y\***  
+   - Carbohydrate Polymers, 310, 120740, 2023.
 
 ### 31. The relationship between starch structure and digestibility by time-course digestion of amylopectin-only and amylose-only barley starches  
-    Liang, W., Ding, L., Guo, K., Liu, Y., Wen, X., Kirkensgaard, J. J. K., Khakimov, B., Rasmussen, K., Hebelstrup, K., Herburger, K., Liu, X., Persson, S., Blennow, A., & **Zhong, Y\***  
-    Food Hydrocolloids, 139, 108491, 2023.
+  * Liang, W., Ding, L., Guo, K., Liu, Y., Wen, X., Kirkensgaard, J. J. K., Khakimov, B., Rasmussen, K., Hebelstrup, K., Herburger, K., Liu, X., Persson, S., Blennow, A., & **Zhong, Y\***  
+  * Food Hydrocolloids, 139, 108491, 2023.
 
 ### 30. The effects of different types of high-amylose maize starches on viscosity and digestion of acidified milk gels  
-    Li, R., Ding, L., Guo, K., Qu, J., Herburger, K., Persson, S., Blennow, A., & **Zhong, Y\***  
-    Food Chemistry, 404, 134525, 2023.
+  Li, R., Ding, L., Guo, K., Qu, J., Herburger, K., Persson, S., Blennow, A., & **Zhong, Y\***  
+  Food Chemistry, 404, 134525, 2023.
 
 ### 29. Strategies for starch customization: Agricultural modification  
-    Guo, K., Liang, W., Wang, S., ... & **Zhong, Y\***  
-    Carbohydrate Polymers, 2023, 121336.
+  Guo, K., Liang, W., Wang, S., ... & **Zhong, Y\***  
+  Carbohydrate Polymers, 2023, 121336.
 
 ### 28. Effects of natural starch-phosphate monoester content on the multi-scale structures of potato starches  
-    Ding, L., Liang, W., Qu, J., ... & **Zhong, Y\***  
-    Carbohydrate Polymers, 2023, 310:120740.
+  Ding, L., Liang, W., Qu, J., ... & **Zhong, Y\***  
+  Carbohydrate Polymers, 2023, 310:120740.
 
 ### 27. Interfacial enzyme kinetics reveals degradation mechanisms behind resistant starch  
-    Tian, Y., Wang, Y., Liu, X., Herburger, K., Westh, P., Møller, M. S., Svensson, B., **Zhong, Y\***, & Blennow, A\*  
-    Food Hydrocolloids, 140, 108621, 2023.
+  Tian, Y., Wang, Y., Liu, X., Herburger, K., Westh, P., Møller, M. S., Svensson, B., **Zhong, Y\***, & Blennow, A\*  
+  Food Hydrocolloids, 140, 108621, 2023.
 
 ### 26. The effects of drought treatments on biosynthesis and structure of maize starches with different amylose content  
-    Wu, W., Qu, J., Blennow, A., Herburger, K., Hebelstrup, K. H., Guo, K., Xue, J., Xu, R., Zhu, C., **Zhong, Y\***, & Guo, D.  
-    Carbohydrate Polymers, 297, 120045, 2022.
+  Wu, W., Qu, J., Blennow, A., Herburger, K., Hebelstrup, K. H., Guo, K., Xue, J., Xu, R., Zhu, C., **Zhong, Y\***, & Guo, D.  
+  Carbohydrate Polymers, 297, 120045, 2022.
 
 ### 25. The effects of fermentation of Qu on the digestibility and structure of waxy maize starch  
-    Wu, W., Zhang, X., Qu, J., Xu, R., Liu, N., Zhu, C., Li, H., Liu, X., **Zhong, Y\***, & Guo, D.  
-    Frontiers in Plant Science, 13, 2022.
+  Wu, W., Zhang, X., Qu, J., Xu, R., Liu, N., Zhu, C., Li, H., Liu, X., **Zhong, Y\***, & Guo, D.  
+  Frontiers in Plant Science, 13, 2022.
 
 ### 24. The location of octenyl succinate anhydride groups in high-amylose maize starch granules and its effect on stability of pickering emulsion stability  
-    Li, J., Wang, Q., Blennow, A., Herburger, K., Zhu, C., Nurzikhan, S., Wie, J., **Zhong, Y\***, & Guo, D\*  
-    LWT, 113892, 2022.
+  Li, J., Wang, Q., Blennow, A., Herburger, K., Zhu, C., Nurzikhan, S., Wie, J., **Zhong, Y\***, & Guo, D\*  
+  LWT, 113892, 2022.
 
 ### 23. High pressure/temperature pasting and gelling of starch related to multilevel structure-analyzed with RVA 4800  
-    Tian, Y., Qu, J., Zhou, Q., Ding, L., Cui, Y., Blennow, A., **Zhong, Y\***, & Liu, X\*  
-    Carbohydrate Polymers, 295, 119858, 2022.
+  Tian, Y., Qu, J., Zhou, Q., Ding, L., Cui, Y., Blennow, A., **Zhong, Y\***, & Liu, X\*  
+  Carbohydrate Polymers, 295, 119858, 2022.
 
 ### 22. The effects of drought treatments on biosynthesis and structure of maize starches with different amylose content  
-    Wu, W., Qu, J., Blennow, A., Herburger, K., Hebelstrup, K. H., Guo, K., Xue, J., Xu, R., Zhu, C., **Zhong, Y\***., & Guo, D.
-    Carbohydrate Polymers, 297, 120045, 2022.
+  Wu, W., Qu, J., Blennow, A., Herburger, K., Hebelstrup, K. H., Guo, K., Xue, J., Xu, R., Zhu, C., **Zhong, Y\***., & Guo, D.
+  Carbohydrate Polymers, 297, 120045, 2022.
 
 ### 21. Biosynthesis, structure and functionality of starch granules in maize inbred lines with different kernel dehydration rate  
-    Qu, J., **Zhong, Y\***, Ding, L., Liu, X., Xu, S., Guo, D., Blennow, A., & Xue, J.  
-    Food Chemistry, 368, 130796, 2022.
+  Qu, J., **Zhong, Y\***, Ding, L., Liu, X., Xu, S., Guo, D., Blennow, A., & Xue, J.  
+  Food Chemistry, 368, 130796, 2022.
 
 ### 20. Structural and functional characterizations of α-amylase-treated porous popcorn starch  
-    Song, Z., **Zhong, Y\***, Tian, W., Zhang, C., Hansen, A. R., Blennow, A., Liang, W., & Guo, D.  
-    Food Hydrocolloids, 108, 105606, 2020.
+  Song, Z., **Zhong, Y\***, Tian, W., Zhang, C., Hansen, A. R., Blennow, A., Liang, W., & Guo, D.  
+  Food Hydrocolloids, 108, 105606, 2020.
 
 ### 19. Biosynthesis, structure and functionality of starch granules in maize inbred lines with different kernel dehydration rate 
-    Qu, J., **Zhong, Y\***, Ding, L., Liu, X., Xu, S., Guo, D., Blennow, A., & Xue, J. 
-    Food Chemistry, 368, 130796, 2022
+  Qu, J., **Zhong, Y\***, Ding, L., Liu, X., Xu, S., Guo, D., Blennow, A., & Xue, J. 
+  Food Chemistry, 368, 130796, 2022
 
 ### 17. Recent advances in enzyme biotechnology on modifying gelatinized and granular starch  
-    **Zhong, Y**, J. Xu, X. Liu, L. Ding, B. Svensson, K. Herburger, K. Guo, C. Pang, A. Blennow  
-    Trends in Food Science & Technology, 123, 343-354, 2022.
+  **Zhong, Y**, J. Xu, X. Liu, L. Ding, B. Svensson, K. Herburger, K. Guo, C. Pang, A. Blennow  
+  Trends in Food Science & Technology, 123, 343-354, 2022.
 
 ### 16. Different genetic strategies to generate high amylose starch mutants by engineering the starch biosynthetic pathways  
-    **Zhong, Y**, J. Z. Qu, X. Liu, L. Ding, Y. Liu, E. Bertoft, B. Petersen, B. Hamaker, K. Hebelstrup, A. Blennow  
-    Carbohydrate Polymers, 119327, 2022.
+  **Zhong, Y**, J. Z. Qu, X. Liu, L. Ding, Y. Liu, E. Bertoft, B. Petersen, B. Hamaker, K. Hebelstrup, A. Blennow  
+  Carbohydrate Polymers, 119327, 2022.
 
 ### 15. High-amylose starch: Structure, functionality and applications  
-    **Zhong, Y**, L. Tai, A. Blennow, L. Ding, K. Herburger, J. Qu, A. Xin, D. Guo, K. Hebelstrup, X. Liu  
-    Critical Reviews in Food Science and Nutrition, 1-23, 2022.
+  **Zhong, Y**, L. Tai, A. Blennow, L. Ding, K. Herburger, J. Qu, A. Xin, D. Guo, K. Hebelstrup, X. Liu  
+  Critical Reviews in Food Science and Nutrition, 1-23, 2022.
 
 ### 14. Rice starch multi-level structure and functional relationships  
-    **Zhong, Y**, J. Qu, Z. Li, Y. Tian, F. Zhu, A. Blennow, X. Liu  
-    Carbohydrate Polymers, 275, 118777, 2022.
+  **Zhong, Y**, J. Qu, Z. Li, Y. Tian, F. Zhu, A. Blennow, X. Liu  
+  Carbohydrate Polymers, 275, 118777, 2022.
 
 ### 13. Ethanol pretreatment increases the efficiency of maltogenic α-amylase and branching enzyme to modify the structure of granular native maize starch  
-    **Zhong, Y**, K. Herburger, J. Xu, J. J. K. Kirkensgaard, B. Khakimov, A. R. Hansen, A. Blennow  
-    Food Hydrocolloids, 123, 107118, 2022.
+  **Zhong, Y**, K. Herburger, J. Xu, J. J. K. Kirkensgaard, B. Khakimov, A. R. Hansen, A. Blennow  
+  Food Hydrocolloids, 123, 107118, 2022.
 
 ### 12. Generation of short-chained granular corn starch by maltogenic α-amylase and transglucosidase treatment  
-    **Zhong, Y**, T. Keeratiburana, J. J. K. Kirkensgaard, B. Khakimov, A. Blennow, A. R. Hansen  
-    Carbohydrate Polymers, 251, 117056, 2021.
+  **Zhong, Y**, T. Keeratiburana, J. J. K. Kirkensgaard, B. Khakimov, A. Blennow, A. R. Hansen  
+  Carbohydrate Polymers, 251, 117056, 2021.
 
 ### 11. Sequential maltogenic α-amylase and branching enzyme treatment to modify granular corn starch  
-    **Zhong, Y**, K. Herburger, J. J. K. Kirkensgaard, B. Khakimov, A. R. Hansen, A. Blennow  
-    Food Hydrocolloids, 120, 106904, 2021.
+  **Zhong, Y**, K. Herburger, J. J. K. Kirkensgaard, B. Khakimov, A. R. Hansen, A. Blennow  
+  Food Hydrocolloids, 120, 106904, 2021.
 
 ### 10. Influence of microwave treatment on the structure and functionality of pure amylose and amylopectin systems  
-    **Zhong, Y**, Y. Tian, X. Liu, L. Ding, J. J. K. Kirkensgaard, K. Hebelstrup, J. Putaux, A. Blennow  
-    Food Hydrocolloids, 119, 106856, 2021.
+  **Zhong, Y**, Y. Tian, X. Liu, L. Ding, J. J. K. Kirkensgaard, K. Hebelstrup, J. Putaux, A. Blennow  
+  Food Hydrocolloids, 119, 106856, 2021.
 
 ### 9. Structural features of five types of maize starch granule subgroups sorted by flow cytometry  
-    **Zhong, Y**, Y. Li, J. Qu, X. Zhang, S. A. Seytahmetovna, A. Blennow, D. Guo  
-    Food Chemistry, 356, 129657, 2021.
+  **Zhong, Y**, Y. Li, J. Qu, X. Zhang, S. A. Seytahmetovna, A. Blennow, D. Guo  
+  Food Chemistry, 356, 129657, 2021.
 
 ### 8. Relationship between molecular structure and lamellar and crystalline structure of rice starch  
-    **Zhong, Y**, Z. Li, J. Qu, E. Bertoft, M. Li, F. Zhu, A. Blennow, X. Liu  
-    Carbohydrate Polymers, 258, 117616, 2021.
+  **Zhong, Y**, Z. Li, J. Qu, E. Bertoft, M. Li, F. Zhu, A. Blennow, X. Liu  
+  Carbohydrate Polymers, 258, 117616, 2021.
 
 ### 7. Expression Pattern of Starch Biosynthesis Genes in Relation to the Starch Molecular Structure in High-Amylose Maize  
-    **Zhong, Y**, J. Qu, A. Blennow, X. Liu, D. Guo  
-    Journal of Agricultural and Food Chemistry, 69(9), 2805-2815, 2021.
+  **Zhong, Y**, J. Qu, A. Blennow, X. Liu, D. Guo  
+  Journal of Agricultural and Food Chemistry, 69(9), 2805-2815, 2021.
 
 ### 6. Amylopectin starch granule lamellar structure as deduced from unit chain length data  
-    **Zhong, Y**, E. Bertoft, Z. Li, A. Blennow, X. Liu  
-    Food Hydrocolloids, 108, 106053, 2020.
+  **Zhong, Y**, E. Bertoft, Z. Li, A. Blennow, X. Liu  
+  Food Hydrocolloids, 108, 106053, 2020.
 
 ### 5. Amylose content and specific fine structures affect lamellar structure and digestibility of maize starches  
-    **Zhong, Y**, L. Liu, J. Qu, A. Blennow, A. R. Hansen, Y. Wu, D. Guo, X. Liu  
-    Food Hydrocolloids, 108, 105994, 2020.
+  **Zhong, Y**, L. Liu, J. Qu, A. Blennow, A. R. Hansen, Y. Wu, D. Guo, X. Liu  
+  Food Hydrocolloids, 108, 105994, 2020.
 
 ### 4. Structural characterization and functionality of starches from different high-amylose maize hybrids  
-    **Zhong, Y**, Y. Wu, A. Blennow, C. Li, D. Guo, X. Liu  
-    LWT, 134, 110176, 2020.
+  **Zhong, Y**, Y. Wu, A. Blennow, C. Li, D. Guo, X. Liu  
+  LWT, 134, 110176, 2020.
 
 ### 3. The relationship between the expression pattern of starch biosynthesis enzymes and molecular structure of high amylose maize starch  
-    **Zhong, Y**, L. Liu, J. Qu, S. Li, A. Blennow, S. A. Seytahmetovna, X. Liu, D. Guo  
-    Carbohydrate Polymers, 247, 116681, 2020.
+  **Zhong, Y**, L. Liu, J. Qu, S. Li, A. Blennow, S. A. Seytahmetovna, X. Liu, D. Guo  
+  Carbohydrate Polymers, 247, 116681, 2020.
 
 ### 2. Optimization of butter, xylitol, and high‐amylose maize flour on developing a low‐sugar cookie  
-    Song, Y., Li, X., & **Zhong, Y\***  
-    Food Science & Nutrition, 7(11), 3414-3424, 2019.
+  Song, Y., Li, X., & **Zhong, Y\***  
+  Food Science & Nutrition, 7(11), 3414-3424, 2019.
 
 ### 1. Short-time microwave treatment affects the multi-scale structure and digestive properties of high-amylose maize starch.
-    **Zhong, Y.**, Liang, W., Pu, H., Blennow, A., Liu, X., & Guo, D 
-    nternational journal of biological macromolecules, 137, 870-877, 2019.
+  **Zhong, Y.**, Liang, W., Pu, H., Blennow, A., Liu, X., & Guo, D 
+  nternational journal of biological macromolecules, 137, 870-877, 2019.
 
