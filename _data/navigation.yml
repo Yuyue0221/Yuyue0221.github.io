@@ -8,14 +8,14 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Research"
+    url: /portfolio/
+    
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "News"
+    url: /year-archive/    
         
   - title: "Teaching"
     url: /teaching/    
@@ -23,10 +23,13 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Students"
+  - title: "Team"
     url: /students/
 
-  - title: "FSN"
+  - title: "Contact Us"
+    url: /contact/
+    
+  - title: "PolyU FSN"
     url: https://www.polyu.edu.hk/fsn/
     
   # - title: "Guide"
